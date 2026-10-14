@@ -1,0 +1,25 @@
+text,label
+My credit report shows an account that is not mine,credit_reporting
+A credit bureau refuses to fix the incorrect balance,credit_reporting
+There is a wrong address on my credit report,credit_reporting
+My report contains an incorrect late payment,credit_reporting
+An account appears twice on my credit report,credit_reporting
+The bureau has not investigated my dispute,credit_reporting
+The debt collector calls me repeatedly at work,collection_practices
+A collector keeps calling my family members,collection_practices
+The collection agency uses threatening language,collection_practices
+I am receiving harassing calls from collectors,collection_practices
+The agency contacts me after I requested no calls,collection_practices
+The debt collector disclosed my balance to a neighbor,collection_practices
+I do not recognize this debt and never opened the account,debt_not_owed
+The company demands payment for a debt I already paid,debt_not_owed
+Someone is collecting money I do not owe,debt_not_owed
+The balance belongs to another person,debt_not_owed
+I paid the bill but the collector says it remains unpaid,debt_not_owed
+This debt is fraudulent and not associated with me,debt_not_owed
+I asked for verification but received no documents,debt_verification
+The collector never sent a debt validation notice,debt_verification
+I requested proof of the debt and got no response,debt_verification
+No written notice of collection was provided,debt_verification
+The agency refused to provide verification paperwork,debt_verification
+I never received the required notification of this debt,debt_verification
